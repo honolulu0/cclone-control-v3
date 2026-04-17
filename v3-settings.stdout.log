@@ -1,0 +1,4 @@
+{"level":30,"time":1776342976429,"pid":25400,"hostname":"CHINAMI-BAPAM93","msg":"Server listening at http://127.0.0.1:8930"}
+{"level":30,"time":1776342976430,"pid":25400,"hostname":"CHINAMI-BAPAM93","msg":"cclone-control-v3 listening on http://127.0.0.1:8930"}
+{"level":30,"time":1776342977990,"pid":25400,"hostname":"CHINAMI-BAPAM93","reqId":"req-1","req":{"method":"GET","url":"/api/codex-settings","host":"127.0.0.1:8930","remoteAddress":"127.0.0.1","remotePort":58541},"msg":"incoming request"}
+{"level":30,"time":1776342978092,"pid":25400,"hostname":"CHINAMI-BAPAM93","reqId":"req-1","res":{"statusCode":200},"responseTime":101.33959999680519,"msg":"request completed"}

@@ -1,0 +1,3 @@
+{"level":30,"time":1776404635340,"pid":36484,"hostname":"CHINAMI-BAPAM93","msg":"Server listening at http://127.0.0.1:8798"}
+{"level":30,"time":1776404635341,"pid":36484,"hostname":"CHINAMI-BAPAM93","msg":"cclone-control-v3 listening on http://127.0.0.1:8798"}
+{"level":30,"time":1776404636557,"pid":36484,"hostname":"CHINAMI-BAPAM93","reqId":"req-1","req":{"method":"GET","url":"/api/thread-events?workspaceId=D%3A%5Cniuma%5COpenAI.Codex_26.325.3894.0_x64&limit=5","host":"127.0.0.1:8798","remoteAddress":"127.0.0.1","remotePort":60392},"msg":"incoming request"}
